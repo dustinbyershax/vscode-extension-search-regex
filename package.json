@@ -10,13 +10,13 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:extension.findInFiles"
+    "onCommand:extension.findAllStrings"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "extension.findInFiles",
+        "command": "extension.findAllStrings",
         "title": "Find files containing all strings"
       }
     ]
