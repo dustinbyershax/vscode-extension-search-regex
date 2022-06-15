@@ -3,7 +3,7 @@
   "displayName": "search-multiple-words-in-file",
   "description": "An extension for searching a codebase for files containing ALL words",
   "publisher": "DustinByers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.34.0"
   },
